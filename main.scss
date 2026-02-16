@@ -149,5 +149,46 @@ header
     margin-left: 104px;
     margin-bottom: 30px;
 }
+.flex
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+    margin-top: 100px;
+}
+.bigp2
+{
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.grid
+{
+    display: flex;
+    gap: 20px;
+}
+.iteam5
+{
+    margin-top: -255px;
+}
+.iteam6
+{
+    margin-top: -255px;
+    margin-left: 800px;
+}
+.iteam7
+{
+    margin-top: -255px;
+    margin-left: 1000px;
+}
+.s3box-1
+{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+}
+
 
 
